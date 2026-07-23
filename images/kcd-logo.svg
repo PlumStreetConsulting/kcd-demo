@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 920" role="img" aria-label="KCD Trucking logo">
+  <!-- Recreation of the KCD Trucking logo (vector). Swap for official artwork file when provided. -->
+  <g fill="#0b0b0b">
+    <!-- exhaust stacks (angled outward with elbow) -->
+    <path d="M196 236 L150 132 L108 96 L96 118 L128 148 L170 246 Z"/>
+    <path d="M444 236 L490 132 L532 96 L544 118 L512 148 L470 246 Z"/>
+    <!-- roof marker lights -->
+    <rect x="214" y="118" width="52" height="34" rx="6"/>
+    <rect x="294" y="118" width="52" height="34" rx="6"/>
+    <rect x="374" y="118" width="52" height="34" rx="6"/>
+    <!-- cab roof -->
+    <path d="M168 152 Q320 122 472 152 L494 214 L146 214 Z"/>
+    <!-- windshield frame with two panes (V dip at center bottom) -->
+    <path fill-rule="evenodd" d="
+      M150 214 L490 214 L512 330 L488 366 L152 366 L128 330 Z
+      M176 240 L308 240 L308 322 L316 340 L184 340 L162 300 Z
+      M332 240 L464 240 L478 300 L456 340 L324 340 L332 322 Z"/>
+    <!-- mirrors with arms -->
+    <path d="M128 238 L96 238 L96 252 L110 252 Z"/>
+    <path d="M512 238 L544 238 L544 252 L530 252 Z"/>
+    <rect x="76" y="238" width="34" height="132" rx="10"/>
+    <rect x="530" y="238" width="34" height="132" rx="10"/>
+    <!-- cowl band -->
+    <path d="M152 366 L488 366 L502 404 L138 404 Z"/>
+    <!-- hood + grille arch -->
+    <path fill-rule="evenodd" d="
+      M138 404 L502 404 L522 470 L522 560 L472 560 L472 486 Q320 440 168 486 L168 560 L118 560 L118 470 Z"/>
+    <!-- grille slats -->
+    <rect x="196" y="492" width="22" height="118"/>
+    <rect x="240" y="484" width="22" height="126"/>
+    <rect x="284" y="480" width="22" height="130"/>
+    <rect x="328" y="480" width="22" height="130"/>
+    <rect x="372" y="484" width="22" height="126"/>
+    <rect x="416" y="492" width="22" height="118"/>
+    <!-- fenders / bumper blocks -->
+    <path d="M118 566 L214 566 L214 610 L104 610 Z"/>
+    <path d="M522 566 L426 566 L426 610 L536 610 Z"/>
+    <!-- KCD wordmark (stroked to fatten, tight tracking) -->
+    <text x="320" y="812" text-anchor="middle" font-family="Arial Black, Arial, sans-serif"
+          font-weight="900" font-size="252" letter-spacing="-6"
+          stroke="#0b0b0b" stroke-width="10" paint-order="stroke">KCD</text>
+    <!-- TRUCKING banner (slight slant on top edge) -->
+    <path d="M78 838 L562 830 L562 912 L78 912 Z"/>
+  </g>
+  <text x="320" y="890" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-weight="800" font-size="54" letter-spacing="16" fill="#ffffff">TRUCKING</text>
+</svg>
